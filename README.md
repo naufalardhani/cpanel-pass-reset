@@ -1,1 +1,1 @@
-# cpanel-pass-reset
+# Reset Cpanel Password Tools
