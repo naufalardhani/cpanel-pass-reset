@@ -6,6 +6,8 @@ How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-pa
 
 
 <p align="center">
+  <pre>V1</pre>
   <img src="https://github.com/naufalardhani/cpanel-pass-reset/blob/master/v1.png" width="350" title="hover text">
+  <br>
   <img src="https://github.com/naufalardhani/cpanel-pass-reset/blob/master/v2.png" width="350" alt="accessibility text">
 </p>
