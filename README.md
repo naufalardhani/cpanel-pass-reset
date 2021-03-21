@@ -1,7 +1,7 @@
 # Cpanel Password Reset Tools
 
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-[![undefined](https://img.shields.io/github/release/radenvodka/Recsech.svg)](https://github.com/naufalardhani/cpanel-pass-reset/releases/latest)
+[![undefined](https://img.shields.io/github/v/release/naufalardhani/cpanel-pass-reset.svg)](https://github.com/naufalardhani/cpanel-pass-reset/releases/latest)
 
 An easy tool to reset cpanel password when you can't upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated.
 
