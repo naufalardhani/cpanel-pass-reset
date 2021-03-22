@@ -29,6 +29,7 @@ An easy tool to reset cpanel password when you can't upload backdoor to server. 
 - https://www.naufalardhani.com/2018/10/tutorial-reset-password-cpanel-terbaru.html
 
 # Author
-- Blog
-- Facebook
-- Linkedin
+1. Naufal Ardhani
+- <a href="http://naufalardhani.com/">Personal Blog</a>
+- <a href="https://www.linkedin.com/in/naufalardhani/">Linkedin</a> 
+
