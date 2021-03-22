@@ -18,9 +18,15 @@ An easy tool to reset cpanel password when you can't upload backdoor to server. 
 - It will not be deleted automatically by the server
 
 # Feature
-### Server Info
-- tes
-- tes
+#### 1.Server Info
+- PHP Version
+- HDD
+- System
+- User / Group
+- Server IP
+- Your IP
+- Disable Function
+- Safe Mode
 
 # How to usage
 - You can upload this tool via any file upload form and access it!
