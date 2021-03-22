@@ -17,6 +17,11 @@ An easy tool to reset cpanel password when you can't upload backdoor to server. 
 - Can be uploaded to the server without bypass
 - It will not be deleted automatically by the server
 
+# Feature
+### Server Info
+- tes
+- tes
+
 # How to usage
 - You can upload this tool via any file upload form and access it!
 - If you have a remote code access, you can write command like this 
