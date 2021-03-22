@@ -6,7 +6,6 @@
 
 An easy tool to reset cpanel password when you can't upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated.
 
-How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-password-cpanel-terbaru.html
 
 
 <p align="center">
@@ -25,3 +24,11 @@ How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-pa
 2. ```wget https://raw.githubusercontent.com/naufalardhani/cpanel-pass-reset/master/web-bassed-v2.php```
 3. `mv web-bassed-v2.php cp.php`
 4. `Access it site.com/cp.php` 
+
+# Reference
+- https://www.naufalardhani.com/2018/10/tutorial-reset-password-cpanel-terbaru.html
+
+# Author
+- Blog
+- Facebook
+- Linkedin
