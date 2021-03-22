@@ -9,7 +9,7 @@ How to usage? Check this https://www.naufalardhani.com/2018/10/tutorial-reset-pa
 
 
 <p align="center">
-  <img src="https://github.com/naufalardhani/cpanel-pass-reset/blob/master/v2.png" width="700" alt="accessibility text">
+  <img src="https://github.com/naufalardhani/cpanel-pass-reset/blob/master/v2-safari.png" width="700" alt="accessibility text">
 </p>
 
 
